@@ -8,7 +8,7 @@ export default function Hero({ onQuote }) {
     <section id="home" className="hero">
       <div className="container hero__grid">
         <div className="hero__copy">
-          <Reveal><span className="eyebrow">Printing House &amp; Branding Studio</span></Reveal>
+          <Reveal><span className="eyebrow">Printing House &amp; Branding Specialists</span></Reveal>
           <Reveal delay={80}>
             <h1>We Design.<br />We Print.<br /><span className="accent">We Brand.</span></h1>
           </Reveal>
