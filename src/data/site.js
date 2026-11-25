@@ -1,9 +1,9 @@
 // Edit your business details here. They are used across the whole site.
 export const site = {
-  phone: '+250 788 000 000',
-  whatsapp: '250788000000', // digits only, with country code, no "+"
-  email: 'hello@yourcompany.com',
-  address: 'KG 7 Ave, Kiyovu, Kigali, Rwanda',
+  phone: '+250 788 346 573',
+  whatsapp: '250788346573', // digits only, with country code, no "+"
+  email: 'merolegts@gmail.com',
+  address: 'Kigali - Rwanda, CHIC Building, Opposite to DHL, -2nd Floor',
   hours: 'Mon – Fri: 8:00 – 18:00 · Sat: 9:00 – 14:00',
 }
 
